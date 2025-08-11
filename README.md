@@ -73,6 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Yahoo Finance for providing the stock market data.
-# Calculate portfolio volatility (standard deviation)
-pf_vol = pf_var ** 0.5
-print(str(round(pf_vol, 5) * 100) + "%")
